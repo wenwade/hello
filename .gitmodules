@@ -1,0 +1,3 @@
+[submodule "hello_lib"]
+	path = hello_lib
+	url = git@github.com:wenwade/hello_lib.git
